@@ -1,0 +1,5 @@
+
+baseURL = "https://orst1011.github.io"
+languageCode = 'de'
+title = 'Ergocanis'
+theme = 'LoveIt'
